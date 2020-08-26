@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "version": "0.0.1",
+    "name": "Hello World",
+    "description": " Gratify ",
+    "author": "Carlos Vitor",
+    "browser_action": {
+   	 "default_title": "Gratify Extension",
+   	 "default_popup": "index.html",
+   	 "default_icon": "icon.png"
+    }
+}
